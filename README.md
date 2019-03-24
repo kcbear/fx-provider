@@ -6,6 +6,9 @@ fx/rest/springboot/swaggerAPI
 ###### Frankly, codegen and export are not mandatory but hand-crafting a bunch of Swagger API annotation is not easy and troublesome
 ###### Obviously it is a Swagger API usability reflection: you code API first and then generate the document or you design API document first?
 
+###### Swagger API definition
+https://app.swaggerhub.com/apis/kcbear4/FxProvider/1.0.0#
+
 ###### To build,
 ./gradlew build
 
